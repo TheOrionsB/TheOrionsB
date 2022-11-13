@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi!</h1>
 </div>
-<p align="center">3rd year software development student.</p>
+<p align="center">Fullstack web developer, developing an interest in cybersecurity and pentesting</p>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=TheOrionsB&show_icons=true&theme=merko"/>
 </p>
